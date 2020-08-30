@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/36kas/git/gitlab/kashili/wizkit-exercises/bristolfashion/include/bristol.h
+vector
+-
+string
+-
+
+C:/Users/36kas/git/gitlab/kashili/wizkit-exercises/bristolfashion/include/parser.h
+vector
+-
+string
+-
+
+C:/Users/36kas/git/gitlab/kashili/wizkit-exercises/bristolfashion/main.cpp
+include/bristol.h
+C:/Users/36kas/git/gitlab/kashili/wizkit-exercises/bristolfashion/include/bristol.h
+include/parser.h
+C:/Users/36kas/git/gitlab/kashili/wizkit-exercises/bristolfashion/include/parser.h
+iostream
+-
+string
+-
+vector
+-
+

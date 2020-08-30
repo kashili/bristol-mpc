@@ -1,0 +1,3 @@
+C:/Users/36kas/git/gitlab/kashili/wizkit-exercises/bristolfashion/cmake-build-debug/CMakeFiles/bristolfashion.dir
+C:/Users/36kas/git/gitlab/kashili/wizkit-exercises/bristolfashion/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/36kas/git/gitlab/kashili/wizkit-exercises/bristolfashion/cmake-build-debug/CMakeFiles/rebuild_cache.dir

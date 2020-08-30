@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="bristolfashion" targetName="bristolfashion" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d81bd93b-3c9f-448d-87f0-53324d17d88f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../stealthBoolean/stealthboolean/src/main/java/com/stealthsoftwareinc/kashili/stealthboolean/digital/Gate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../stealthBoolean/stealthboolean/src/main/java/com/stealthsoftwareinc/kashili/stealthboolean/digital/Gate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stealthBoolean/stealthboolean/src/main/java/com/stealthsoftwareinc/kashili/stealthboolean/interfaces/EGateType.java" beforeDir="false" afterPath="$PROJECT_DIR$/../stealthBoolean/stealthboolean/src/main/java/com/stealthsoftwareinc/kashili/stealthboolean/interfaces/EGateType.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1e3Zc6jn2GnGC7deI3vbEzztRIw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/digitaldesign-minimal/minimal/digitaldesign" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\36kas\git\gitlab\kashili\wizkit-exercises\bristolfashion\include" />
+      <recent name="C:\Users\36kas\git\gitlab\kashili\wizkit-exercises\bristolfashion\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="bristolfashion" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="..\..\data\circuit-formats\adder64.txt " REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bristolfashion" TARGET_NAME="bristolfashion" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="bristolfashion" RUN_TARGET_NAME="bristolfashion">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d81bd93b-3c9f-448d-87f0-53324d17d88f" name="Default Changelist" comment="" />
+      <created>1593552312542</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593552312542</updated>
+      <workItem from="1593552313823" duration="2803000" />
+      <workItem from="1593556739245" duration="6669000" />
+      <workItem from="1595181512795" duration="470000" />
+      <workItem from="1595193253590" duration="33082000" />
+      <workItem from="1595284755726" duration="4000" />
+      <workItem from="1595366939572" duration="5077000" />
+      <workItem from="1595696900305" duration="599000" />
+      <workItem from="1596568093056" duration="19000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="225" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593552811184">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="225" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1593552811184" />
+    <state x="550" y="117" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1593552770558">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="550" y="117" key="#com.intellij.ide.macro.MacrosDialog/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1593552770558" />
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1595207807522">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-3840.-174.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1595207807522" />
+    <state width="406" height="466" key="DebuggerActiveHint" timestamp="1595271317193">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="406" height="466" key="DebuggerActiveHint/-3840.-174.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1595271317193" />
+    <state x="553" y="169" key="FileChooserDialogImpl" timestamp="1595211648306">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="553" y="169" key="FileChooserDialogImpl/-3840.-174.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1595211648306" />
+    <state x="442" y="134" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1595181968375" />
+    <state width="1878" height="346" key="GridCell.Tab.0.bottom" timestamp="1595284726435">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="346" key="GridCell.Tab.0.bottom/-3840.-174.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1595284726435" />
+    <state width="1344" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1593555651710" />
+    <state width="1877" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824/3840.0.1920.1040@3840.0.1920.1040" timestamp="1593559189494" />
+    <state width="1493" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593561811298" />
+    <state width="1878" height="346" key="GridCell.Tab.0.center" timestamp="1595284726435">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="346" key="GridCell.Tab.0.center/-3840.-174.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1595284726435" />
+    <state width="1344" height="195" key="GridCell.Tab.0.center/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1593555651710" />
+    <state width="1877" height="195" key="GridCell.Tab.0.center/0.0.1536.824/3840.0.1920.1040@3840.0.1920.1040" timestamp="1593559189494" />
+    <state width="1493" height="195" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593561811298" />
+    <state width="1878" height="346" key="GridCell.Tab.0.left" timestamp="1595284726435">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="346" key="GridCell.Tab.0.left/-3840.-174.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1595284726435" />
+    <state width="1344" height="195" key="GridCell.Tab.0.left/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1593555651710" />
+    <state width="1877" height="195" key="GridCell.Tab.0.left/0.0.1536.824/3840.0.1920.1040@3840.0.1920.1040" timestamp="1593559189494" />
+    <state width="1493" height="195" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593561811298" />
+    <state width="1878" height="346" key="GridCell.Tab.0.right" timestamp="1595284726435">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="346" key="GridCell.Tab.0.right/-3840.-174.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1595284726435" />
+    <state width="1344" height="195" key="GridCell.Tab.0.right/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1593555651710" />
+    <state width="1877" height="195" key="GridCell.Tab.0.right/0.0.1536.824/3840.0.1920.1040@3840.0.1920.1040" timestamp="1593559189494" />
+    <state width="1493" height="195" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593561811298" />
+    <state width="1878" height="346" key="GridCell.Tab.1.bottom" timestamp="1595284726435">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="346" key="GridCell.Tab.1.bottom/-3840.-174.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1595284726435" />
+    <state width="1344" height="242" key="GridCell.Tab.1.bottom/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1593555646979" />
+    <state width="1344" height="242" key="GridCell.Tab.1.bottom/0.0.1536.824/3840.0.1920.1040@3840.0.1920.1040" timestamp="1593556302397" />
+    <state width="1878" height="346" key="GridCell.Tab.1.center" timestamp="1595284726435">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="346" key="GridCell.Tab.1.center/-3840.-174.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1595284726435" />
+    <state width="1344" height="242" key="GridCell.Tab.1.center/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1593555646979" />
+    <state width="1344" height="242" key="GridCell.Tab.1.center/0.0.1536.824/3840.0.1920.1040@3840.0.1920.1040" timestamp="1593556302397" />
+    <state width="1878" height="346" key="GridCell.Tab.1.left" timestamp="1595284726435">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="346" key="GridCell.Tab.1.left/-3840.-174.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1595284726435" />
+    <state width="1344" height="242" key="GridCell.Tab.1.left/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1593555646979" />
+    <state width="1344" height="242" key="GridCell.Tab.1.left/0.0.1536.824/3840.0.1920.1040@3840.0.1920.1040" timestamp="1593556302397" />
+    <state width="1878" height="346" key="GridCell.Tab.1.right" timestamp="1595284726435">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="346" key="GridCell.Tab.1.right/-3840.-174.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1595284726435" />
+    <state width="1344" height="242" key="GridCell.Tab.1.right/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1593555646979" />
+    <state width="1344" height="242" key="GridCell.Tab.1.right/0.0.1536.824/3840.0.1920.1040@3840.0.1920.1040" timestamp="1593556302397" />
+  </component>
+</project>
